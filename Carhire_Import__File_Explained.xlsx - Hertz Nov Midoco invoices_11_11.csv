@@ -1,0 +1,6 @@
+,Hertz = ZE C Avis = ZI C Enterprise= ET C,As per PDFs,As per PDFs. Must be this format,As per PDFs. Must be this format,As per PDFs,As per PDFs,"Note on examples where the Gross Amount is, as it may not be labled  as ""gross""",VAT only applies to UK Carhire. Should 20 when picking up in UK. 0 for everywhere else,Must be enter with a - at the start,"Note on examples where the Gross Amount is, as it may not be labled  as ""Nett""",Currency is always GBP on the export file,Payment Type is is always AGENCY on the export file,As per PDFs
+Agency Account Number,Car Provider,Invoice Number,Invoice Date,Travel Date,Reservation Number,Passenger Name,Gross Amount,VAT %,Comm,Nett Amount,Currency,Payment Type,Destinaiton 
+269994521,ZE C,939046931,06.10.2022,03.10.2022,K2562192884,HEGARTY/WILLIAM,120.72,0,-9.43,111.29,GBP,AGENCY,CALGARY
+269994521,ZI C,I09040205204505,06.10.2022,26.09.2022,43319898GB6,WARD/JAMES,644.91,0,-71.15,716.06,GBP,AGENCY,DUESSELD APT
+269994521,ET C,402000087982,02.10.2022,19.09.2022,1442013180,TAYLOR/MARTINA,361.44,0,-44.01,361.44,GBP,AGENCY,DUBLIN
+269994521,ZE C,2326258610,03.10.2022,30.09.2022,k26621675a6,CHRILLESEN/CASPER,178.78,20,-22.35,156.43,GBP,AGENCY,STANSTED
